@@ -1,0 +1,11 @@
+Model Information:
+* title:	Carro De La Compra
+* source:	https://sketchfab.com/3d-models/carro-de-la-compra-c22286ade5ea493b890b3269e57b191f
+* author:	alexvladimircm (https://sketchfab.com/alexvladimircm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Carro De La Compra" (https://sketchfab.com/3d-models/carro-de-la-compra-c22286ade5ea493b890b3269e57b191f) by alexvladimircm (https://sketchfab.com/alexvladimircm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
